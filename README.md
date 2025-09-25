@@ -26,3 +26,6 @@ A ping pong game built with HTML, CSS, and JavaScript.
 ## Running the Game
 
 Open index.html in a web browser to play the game.
+
+## Deploying code to Azure cloud
+![deploy demo](azure-static-webapp.gif)
