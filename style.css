@@ -1,0 +1,43 @@
+body {
+    background-color: #4d94b0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+  }
+  
+  .button {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  
+  .btn {
+    background-color: #bbcc20;
+    border: none;
+    color: #2c1810;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .btn:hover {
+    background-color: #b8860b;
+  }
+  
+  .control {
+    text-align: center;
+  }
+  
+  canvas {
+    background: #000;
+  }
